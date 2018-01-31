@@ -1,0 +1,23 @@
+body {
+  background-color: black;
+  text-align: center;
+  color: white;
+  font-family: Verdana;
+}
+
+#heading {
+  font-size: 50px;
+  font-weight: normal;
+  text-align: center;
+}
+
+.download {
+  color: red;
+  font-size: 16px;
+}
+h2 {
+  font-size: 40px;
+}
+.phone {
+padding: 15px;
+}
